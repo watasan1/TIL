@@ -10,6 +10,20 @@ GitHub Discussions は、リポジトリ上で質問・議論・情報共有な�
 
 Discussionsは「質問・議論・情報共有などの会話」に向いています。
 
+Issueに書くと便利なものは、完了条件があり
+バク修正
+機能実装のタスク
+今週やることリスト
+Discussionsは、完了条件がない
+学んだこと・気づきの共有
+相談
+振り返り
+
+判断基準としては「完了条件があってクローズできるか」がポイントです。「終わったら閉じる」ものは Issue、
+
+「残しておいて後から参照・会話を続ける」ものは Discussions、と考えると迷いにくいです。
+
+
 ## 成果物
 
 [discussions](https://github.com/watasan1/TIL/discussions)
