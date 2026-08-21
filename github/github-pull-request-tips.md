@@ -30,5 +30,4 @@ Pull Requestは作成するだけでなく、「小さく分ける」「わか�
 ## 参考
 
 - [Pull Request](https://docs.github.com/ja/pull-requests/reference/pull-requests)
-- [pull request の作成](https://docs.github.com/ja/pull-requests/how-tos/create-pull-requests/creating-a-pull-request)
 - [サル先生のGit入門 プルリクエストとは？](https://git-tutorial.backlog.com/pull-request/01/)
